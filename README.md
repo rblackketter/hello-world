@@ -1,2 +1,3 @@
 # hello-world
-Initial project
+
+this is for ideas and the first repo for GitHub
